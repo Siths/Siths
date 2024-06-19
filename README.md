@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Siths
-- 👀 I’m interested in College Administration, Health Connect Custom development
+- 👀 I’m interested in Learning Portal, Telco & TMF-API,College Administration, Health Connect Custom development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
